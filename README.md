@@ -1,9 +1,9 @@
 ## Olá, me chamo Anderson Costa Rodrigues! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-#### Atualmente estudo na Trybe para me formar como dev full stack.
+#### 📜 Atualmente estudo na Trybe para me formar como dev full stack.
 
-#### 🌱 Atualmente estou aprendendo: ReactJs.
+#### 🌱 Estou aprendendo: ReactJs.
 
 
 <div align="center">
