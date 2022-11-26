@@ -3,7 +3,7 @@
 
 #### 📜 Atualmente estudo na Trybe para me formar como dev full stack.
 
-#### 🌱 Estou aprendendo: ReactJs.
+#### 🌱 Estou aprendendo: Docker.
 
 
 <div align="center">
