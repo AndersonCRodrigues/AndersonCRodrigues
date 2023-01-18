@@ -1,7 +1,7 @@
 ## Olá, me chamo Anderson Costa Rodrigues! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-#### 📜 Atualmente estudo na Trybe para me formar como dev full stack.
+#### 📜 Atualmente estudo na Trybe para me formar como Dev. Full Stack.
 
 #### 🌱 Estou aprendendo: MySQL.
 
