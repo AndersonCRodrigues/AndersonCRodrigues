@@ -17,7 +17,8 @@
    <img align="center" alt="Anderson-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> -     
   <img align="center" alt="Anderson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> - 
   <img align="center" alt="Anderson-NextJs" height="30" width="30" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" /> - 
-  <img align="center" alt="Anderson-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /> -      
+  <img align="center" alt="Anderson-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /> - 
+  <img align="center" alt="Anderson-RTL" height="30" width="30" src="https://testing-library.com/img/octopus-128x128.png" /> -  
   <img align="center" alt="Anderson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> - 
   <img align="center" alt="Anderson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> - 
   <img align="center" alt="Anderson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> - 
