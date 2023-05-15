@@ -3,7 +3,7 @@
 
 #### 📜 Atualmente estudo na Trybe para me formar como Dev. Full Stack.
 
-#### 🌱 Estou aprendendo: NodeJS - Express - Sequelize.
+#### 🌱 Estou aprendendo: NestJs - RabbitMQ - Cloud Services
 
 
 <div align="center">
