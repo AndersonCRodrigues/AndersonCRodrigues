@@ -32,3 +32,4 @@
 </div>
 <hr/>
 <a href="https://www.linkedin.com/in/anderson-costa-rodrigues-31b48a74/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=anderson.c.rodrigues@hotmail.com" target="_blank"><img  height="29" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/outlook_button_icon_151845.png" target="_blank"></a>
