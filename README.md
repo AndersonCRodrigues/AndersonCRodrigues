@@ -3,7 +3,7 @@
 
 #### 📜 Atualmente estudo na Trybe para me formar como Dev. Full Stack.
 
-#### 🌱 Estou aprendendo: NestJs - RabbitMQ - Cloud Services
+#### 🌱 Estou aprendendo: AWS
 
 
 <div align="center">
