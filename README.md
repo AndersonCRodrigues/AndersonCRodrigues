@@ -53,9 +53,9 @@
 
 ## 📊 Estatísticas do Meu GitHub
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=AndersonCRodrigues&show_icons=true&theme=onedark&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AndersonCRodrigues&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonCRodrigues&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=AndersonCRodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AndersonCRodrigues&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonCRodrigues&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 <hr/>
 
