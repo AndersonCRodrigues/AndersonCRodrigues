@@ -1,12 +1,12 @@
-# 👋 Olá, me chamo Anderson! 
+# 👋 Hi, I am Anderson! 
 
-##  💫 Sobre mim:
+##  💫 About me:
 
 <ul>
-<li>🔝 Graduando em Engenharia de Software</li>
-<li>📜 Aprendendo: Flask/Serverless</li>
-<li>💻 Desenvolvedor MERN</li>
-<li>📫 Como entrar em contato: anderson.c.rodrigues@hotmail.com</li>
+<li>🔝 Currently pursuing a degree in Software Engineering</li>
+<li>📜 Learning: BOTO3/Serverless</li>
+<li>💻 MERN Developer</li>
+<li>📫 How to contact: anderson.c.rodrigues@hotmail.com</li>
 </ul>
 <hr/>
 
@@ -16,7 +16,7 @@
 <a href="mailto:anderson.c.rodrigues@hotmail.com" target="_blank"><img height="29" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/outlook_button_icon_151845.png"></a>
 <hr/>
 
-## 💻 Tecnologias Utilizadas
+## 💻 Main Technologies
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -51,7 +51,7 @@
 
 <hr/>
 
-## 📊 Estatísticas do Meu GitHub
+## 📊 Statistics of My GitHub
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=AndersonCRodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AndersonCRodrigues&theme=dark&hide_border=false)<br/>
@@ -59,7 +59,7 @@
 
 <hr/>
 
-## 🏆 Troféus GitHub
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AndersonCRodrigues&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
