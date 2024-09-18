@@ -4,7 +4,7 @@
 
 <ul>
 <li>🔝 Currently pursuing a degree in Software Engineering</li>
-<li>📜 Learning: Machine Learning</li>
+<li>📜 Learning: java - Spring</li>
 <li>💻 MERN Developer</li>
 <li>📫 How to contact: anderson.c.rodrigues@hotmail.com</li>
 </ul>
