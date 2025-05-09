@@ -122,18 +122,21 @@ Technologies: Node.js, Express, MongoDB, Handlebars, Fullstack
 
 ---
 
-## 👋 Let's Connect
+## 📫 Contact Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/anderson-costa-rodrigues-31b48a74/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:anderson.c.rodrigues@hotmail.com" target="_blank">
-    <img height="28" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Email" />
-  </a>
-  <a href="https://AndersonCRodrigues.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
-  </a>
+I'm open to freelance opportunities, collaborations, and full-time positions.  
+Feel free to reach out if you'd like to discuss potential projects or roles.
+
+<div align="center" style="margin-top: 16px;">
+  <a href="https://www.linkedin.com/in/anderson-costa-rodrigues-31b48a74/" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:anderson.c.rodrigues@hotmail.com" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://AndersonCRodrigues.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 ---
